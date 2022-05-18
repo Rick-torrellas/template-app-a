@@ -15,7 +15,6 @@
 * [Data Model 💾](#data-model)
 * [Implement with Docker 🐋](#docker)
 * [Test 🧪](#test)
-* [Debug 🐜](#debug)
 * [Scripts 💻](#scripts)
 * [Dependencies 📁](#dependencies)
 * [Screenshots 🖼️](#screenshots)
@@ -64,10 +63,6 @@ NEXT_PUBLIC_HOST=
 [Project Data Model🔗]() 
 
 <h2 id="test">Test 🧪</h2>
-
-[🏠](#nav "Back home")
-
-<h2 id="debug">Debug 🐜</h2>
 
 [🏠](#nav "Back home")
 
