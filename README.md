@@ -9,7 +9,7 @@
 <h2 id="nav">Nav🏠 </h2>
 
 * [Instalation](#instalation)
-* [Usage](#usage)
+* [Usage 🔰](#usage)
 * [API ☁️](#api)
 * [Environment variables 🔐](#environment-variables)
 * [Data Model 💾](#data-model)
