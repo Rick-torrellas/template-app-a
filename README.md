@@ -21,7 +21,7 @@
 * [Authors 👪](#authors)
 * [License 📄](#license)
 * [Docs 📚](https://user-name.github.io/project-name)
-* <a href="./kanbas.md" title="kanbas">Kanbas img width="1%" src="https://res.cloudinary.com/rick-rick-torrellas/image/upload/v1629301660/icons/kanban_oifhu7.png"/></a>
+* <a href="./kanbas.md" title="kanbas">Kanbas <img width="1%" src="https://res.cloudinary.com/rick-rick-torrellas/image/upload/v1629301660/icons/kanban_oifhu7.png"/></a>
 
 ***
 
