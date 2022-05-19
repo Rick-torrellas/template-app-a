@@ -47,10 +47,6 @@ npm i
 
 [🏠](#nav "Back home")
 
-``` dotenv
-NEXT_PUBLIC_HOST=
-```
-
 <h2 id="data-model">Data Model 💾</h2>
 
 [🏠](#nav "Back home")
@@ -90,5 +86,4 @@ NEXT_PUBLIC_HOST=
 * Ricardo Torrellas
 
 ---
-<a href="https://www.flaticon.es/iconos-gratis/pildora" title="píldora iconos">Píldora iconos creados por Good Ware - Flaticon</a><br>
 <a href="https://www.flaticon.es/iconos-gratis/kanban" title="kanban iconos">Kanban iconos creados por Freepik - Flaticon</a>
